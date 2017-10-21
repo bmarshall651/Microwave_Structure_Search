@@ -1,0 +1,16 @@
+#Momentum: B.11.40.482 (*) built: Dec  2 2014 
+#Momentum Date and Time: Sat Oct 14 12:12:42 2017
+
+Overall database status : 1 (file present and valid)
+
+Frequency range : from 0.8 GHz to 10 GHz.
+
+Requested frequency range : from 5.684 GHz to 5.916 GHz.
+
+Individual status fields : (0 = FALSE, 1 = TRUE)
+ File exists             : 1
+ Substrates match        : 1
+ Frequency-range matches : 1
+
+Corresponding potentialpath : C:\Users\Blake
+Corresponding potentialname : C:\Users\Blake\substrates\0001.sdb
